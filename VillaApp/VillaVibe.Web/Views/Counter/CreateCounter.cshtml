@@ -1,0 +1,16 @@
+@model CreateCounterDto
+@{
+ViewData["Title"] = "Değer Ekleme";
+Layout= "_AdminLayout";
+}
+
+<form method="post">
+    <label>Başlık</label>
+    <input type="text" asp-for="Title" class="form-control">
+    <br>
+    <label>Değer</label>
+    <input type="text" asp-for="Count" class="form-control">
+    <br>
+    <button class="btn btn-outline-dark mt-3">Kaydet</button>
+
+</form>

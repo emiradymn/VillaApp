@@ -1,0 +1,259 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VillaVibe.Web
+build_property.RootNamespace = VillaVibe.Web
+build_property.ProjectDir = C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Banner/CreateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFubmVyXENyZWF0ZUJhbm5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Banner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFubmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Banner/UpdateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFubmVyXFVwZGF0ZUJhbm5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Contact/CreateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDcmVhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Contact/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVcGRhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Counter/CreateCounter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRlclxDcmVhdGVDb3VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Counter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Counter/UpdateCounter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRlclxVcGRhdGVDb3VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Deal/CreateDeal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhbFxDcmVhdGVEZWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Deal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Deal/UpdateDeal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhbFxVcGRhdGVEZWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Feature/CreateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxDcmVhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Feature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Feature/UpdateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxVcGRhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Message/CreateMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxDcmVhdGVNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Message/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Message/MessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxNZXNzYWdlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Product/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Question/CreateQuest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cQ3JlYXRlUXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Question/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Question/UpdateQuest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cVXBkYXRlUXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_AdminFooter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_AdminHead/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluSGVhZFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_AdminLogo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTG9nb1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_AdminNavbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTmF2YmFyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_AdminPreloader/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluUHJlbG9hZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_AdminScripts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluU2NyaXB0c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_AdminSidebar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluU2lkZWJhclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultBanner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRCYW5uZXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultContact/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRDb250YWN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultCounter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRDb3VudGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultDeal/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHREZWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultFeature/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRGZWF0dXJlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultMessage/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRNZXNzYWdlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultProduct/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRQcm9kdWN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultQuestion/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRRdWVzdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_DefaultVideo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRWaWRlb1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Components/_UISubHeader/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJU3ViSGVhZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/_UILayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VSUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/SubHeader/CreateSubHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSGVhZGVyXENyZWF0ZVN1YkhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/SubHeader/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSGVhZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/SubHeader/UpdateSubHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSGVhZGVyXFVwZGF0ZVN1YkhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Video/CreateVideo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9cQ3JlYXRlVmlkZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Video/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Video/UpdateVideo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9cVXBkYXRlVmlkZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emira/OneDrive/Masaüstü/VillaAppProject/VillaApp/VillaVibe.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w295hsm6sw

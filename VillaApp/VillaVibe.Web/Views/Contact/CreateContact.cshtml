@@ -1,0 +1,18 @@
+@model CreateContactDto
+@{
+ViewData["Title"] = "Yeni İletişim Bilgisi Ekleme";
+Layout= "_AdminLayout";
+}
+
+<form method="post">
+    <label>Harita Url</label>
+    <input type="text" asp-for="MapUrl" class="form-control">
+    <br>
+    <label>Telefon</label>
+    <input type="text" asp-for="Phone" class="form-control">
+    <br>
+    <label>E-Mail</label>
+    <input type="text" asp-for="Email" class="form-control">
+    <button class="btn btn-outline-dark mt-3">Kaydet</button>
+
+</form>

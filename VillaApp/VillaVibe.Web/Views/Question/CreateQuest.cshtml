@@ -1,0 +1,18 @@
+@model CreateQuestDto
+@{
+Layout= "_AdminLayout";
+ViewData["Title"] = "Yeni Soru Cevap Ekleme";
+}
+
+<form method="post">
+    <label>Soru</label>
+    <input type="text" asp-for="Question" class="form-control">
+    <span asp-validation-for="Question" class="text-danger"></span>
+    <br>
+    <label>Cevap</label>
+    <input type="text" asp-for="Answer" class="form-control">
+    <span asp-validation-for="Answer" class="text-danger"></span>
+    <br>
+    <button class="btn btn-outline-dark mt-3">Kaydet</button>
+
+</form>

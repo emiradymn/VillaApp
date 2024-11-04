@@ -1,0 +1,19 @@
+@model UpdateContactDto
+@{
+ViewData["Title"] = "İletişim Bilgilerini Güncelleme";
+Layout= "_AdminLayout";
+}
+
+<form method="post">
+    <input type="hidden" asp-for="Id">
+    <label>Resim Url</label>
+    <input type="text" asp-for="MapUrl" class="form-control">
+    <br>
+    <label>Şehir</label>
+    <input type="text" asp-for="Phone" class="form-control">
+    <br>
+    <label>Başlık</label>
+    <input type="text" asp-for="Email" class="form-control">
+    <button class="btn btn-outline-dark mt-3">Kaydet</button>
+
+</form>

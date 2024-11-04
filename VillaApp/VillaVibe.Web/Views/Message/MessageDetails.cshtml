@@ -1,0 +1,26 @@
+@model ResultMessageDto
+@{
+ViewData["Title"] = "Mesaj Detayları ";
+Layout= "_AdminLayout";
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>Gönderen Ad Soyad</th>
+        <th>@Model.Name</th>
+    </tr>
+    <tr>
+        <th>Gönderen Email</th>
+        <th>@Model.Email</th>
+    </tr>
+    <tr>
+        <th>Konu:</th>
+        <th>@Model.Subject</th>
+    </tr>
+    <tr>
+        <th>Mesaj İçeriği</th>
+        <th>@Model.MessageContent</th>
+    </tr>
+</table>
+
+<a asp-controller="Message" asp-action="Index" class="btn btn-dark">Mesajlara git</a>

@@ -1,0 +1,17 @@
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\bin\Debug\net7.0\VillaVibe.DataAccess.deps.json
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\bin\Debug\net7.0\VillaVibe.DataAccess.runtimeconfig.json
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\bin\Debug\net7.0\VillaVibe.DataAccess.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\bin\Debug\net7.0\VillaVibe.DataAccess.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\bin\Debug\net7.0\VillaVibe.Entity.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\bin\Debug\net7.0\VillaVibe.Entity.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.AssemblyInfoInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.AssemblyInfo.cs
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.csproj.CopyComplete
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\refint\VillaVibe.DataAccess.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\VillaVibe.DataAccess.genruntimeconfig.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.DataAccess\obj\Debug\net7.0\ref\VillaVibe.DataAccess.dll

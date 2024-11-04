@@ -1,0 +1,41 @@
+@model CreateDealDto
+@{
+ViewData["Title"] = "Teklif Ekleme";
+Layout= "_AdminLayout";
+}
+
+<form method="post">
+    <label>İlan Türü</label>
+    <input type="text" asp-for="Type" class="form-control">
+    <br>
+    <label>Resin Url</label>
+    <input type="text" asp-for="ImageUrl" class="form-control">
+    <br>
+    <label>Başlık</label>
+    <input type="text" asp-for="Title" class="form-control">
+    <br>
+    <label>Açıklama</label>
+    <input type="text" asp-for="Description" class="form-control">
+    <br>
+    <label>Metre Kare</label>
+    <input type="text" asp-for="Square" class="form-control">
+    <br>
+    <label>Kaçıncı Kat</label>
+    <input type="text" asp-for="Square" class="form-control">
+    <br>
+    <label>Oda Sayısı</label>
+    <input type="text" asp-for="Floor" class="form-control">
+    <br>
+    <label>Ödeme Türü</label>
+    <input type="text" asp-for="PaymentType" class="form-control">
+    <br>
+    <label>Park Alanı</label>
+    <select asp-for="HasParkingArea" class="form-control">
+        <option>Seçimizizi yapınız</option>
+        <option value="true">Var</option>
+        <option value="false">Yok</option>
+    </select>
+    <br>
+    <button class="btn btn-outline-dark mt-3">Kaydet</button>
+
+</form>

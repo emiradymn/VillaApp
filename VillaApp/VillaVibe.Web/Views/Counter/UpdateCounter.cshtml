@@ -1,0 +1,17 @@
+@model UpdateCounterDto
+@{
+ViewData["Title"] = "Değer Güncelleme";
+Layout= "_AdminLayout";
+}
+
+<form method="post">
+    <input type="hidden" asp-for="Id">
+    <label>Harita Url</label>
+    <input type="text" asp-for="Title" class="form-control">
+    <br>
+    <label>Telefon</label>
+    <input type="text" asp-for="Count" class="form-control">
+    <br>
+    <button class="btn btn-outline-dark mt-3">Güncelle</button>
+
+</form>

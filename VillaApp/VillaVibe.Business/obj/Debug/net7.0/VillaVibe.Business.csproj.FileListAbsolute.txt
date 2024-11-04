@@ -1,0 +1,17 @@
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\bin\Debug\net7.0\VillaVibe.Business.deps.json
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\bin\Debug\net7.0\VillaVibe.Business.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\bin\Debug\net7.0\VillaVibe.Business.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\bin\Debug\net7.0\VillaVibe.DataAccess.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\bin\Debug\net7.0\VillaVibe.Entity.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\bin\Debug\net7.0\VillaVibe.Entity.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\bin\Debug\net7.0\VillaVibe.DataAccess.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\VillaVibe.Business.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\VillaVibe.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\VillaVibe.Business.AssemblyInfoInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\VillaVibe.Business.AssemblyInfo.cs
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\VillaVibe.Business.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\VillaVibe.Business.csproj.CopyComplete
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\VillaVibe.Business.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\refint\VillaVibe.Business.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\VillaVibe.Business.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Business\obj\Debug\net7.0\ref\VillaVibe.Business.dll

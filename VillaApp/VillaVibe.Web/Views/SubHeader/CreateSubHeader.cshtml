@@ -1,0 +1,28 @@
+@model CreateSubHeaderDto
+@{
+Layout= "_AdminLayout";
+ViewData["Title"] = "CreateSubHeader";
+}
+
+<form method="post">
+    <label>Adres</label>
+    <input type="text" asp-for="Adress" class="form-control">
+    <br>
+    <label>E-Mail</label>
+    <input type="text" asp-for="Email" class="form-control">
+    <br>
+    <label>Facebook</label>
+    <input type="text" asp-for="Facebook" class="form-control">
+    <br>
+    <label>Twitter</label>
+    <input type="text" asp-for="Twitter" class="form-control">
+    <br>
+    <label>Linkedin</label>
+    <input type="text" asp-for="Linkedin" class="form-control">
+    <br>
+    <label>Instagram</label>
+    <input type="text" asp-for="Instagram" class="form-control">
+    <br>
+    <button class="btn btn-outline-dark mt-3">Kaydet</button>
+
+</form>

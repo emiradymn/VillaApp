@@ -1,0 +1,18 @@
+@model CreateBannerDto
+@{
+ViewData["Title"] = "Banner Ekleme";
+Layout = "_AdminLayout";
+}
+
+<form method="post">
+    <label>Resim Url</label>
+    <input type="text" asp-for="ImageUrl" class="form-control">
+    <br>
+    <label>Şehir</label>
+    <input type="text" asp-for="City" class="form-control">
+    <br>
+    <label>Başlık</label>
+    <input type="text" asp-for="Title" class="form-control">
+    <button class="btn btn-outline-dark mt-3">Kaydet</button>
+
+</form>

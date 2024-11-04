@@ -1,0 +1,45 @@
+@model ResultProductDto
+@{
+Layout= "_AdminLayout";
+ViewData["Title"] = "Mülk Detayları";
+}
+
+<table class="table table-striped">
+    <tr>
+        <th><img src="@Model.ImageUrl" style="height: 200px; width: auto;"></th>
+    </tr>
+    <tr>
+        <th>Adres</th>
+        <th>@Model.Title</th>
+    </tr>
+    <tr>
+        <th>Kategori</th>
+        <th>@Model.Category</th>
+    </tr>
+    <tr>
+        <th>Fiyat</th>
+        <th>@Model.Price</th>
+    </tr>
+    <tr>
+        <th>Oda sayısı</th>
+        <th>@Model.BedroomCount</th>
+    </tr>
+    <tr>
+        <th>Banyo sayısı</th>
+        <th>@Model.BathroomCount</th>
+    </tr>
+    <tr>
+        <th>Kaçıncı Kat</th>
+        <th>@Model.Floor</th>
+    </tr>
+    <tr>
+        <th>Metrekare</th>
+        <th>@Model.Area m2</th>
+    </tr>
+    <tr>
+        <th>Park Alanı Sayısı</th>
+        <th>@Model.ParkingCount</th>
+    </tr>
+</table>
+
+<a asp-controller="Product" asp-action="Index" class="btn btn-dark">Mülklere geri dön</a>

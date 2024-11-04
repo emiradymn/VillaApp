@@ -1,0 +1,13 @@
+@model CreateVideoDto
+@{
+ViewData["Title"] = "Video yğkleme sayfası";
+Layout= "_AdminLayout";
+}
+
+<form method="post">
+    <label>Video Link</label>
+    <input type="text" asp-for="VideoUrl" class="form-control">
+    <br>
+    <button class="btn btn-outline-dark mt-3">Kaydet</button>
+
+</form>

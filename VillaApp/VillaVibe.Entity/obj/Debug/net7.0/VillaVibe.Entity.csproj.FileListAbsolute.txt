@@ -1,0 +1,12 @@
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\bin\Debug\net7.0\VillaVibe.Entity.deps.json
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\bin\Debug\net7.0\VillaVibe.Entity.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\bin\Debug\net7.0\VillaVibe.Entity.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\VillaVibe.Entity.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\VillaVibe.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\VillaVibe.Entity.AssemblyInfoInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\VillaVibe.Entity.AssemblyInfo.cs
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\VillaVibe.Entity.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\VillaVibe.Entity.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\refint\VillaVibe.Entity.dll
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\VillaVibe.Entity.pdb
+C:\Users\emira\OneDrive\Masaüstü\VillaAppProject\VillaApp\VillaVibe.Entity\obj\Debug\net7.0\ref\VillaVibe.Entity.dll

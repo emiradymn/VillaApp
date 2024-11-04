@@ -1,0 +1,51 @@
+@model List<ResultCounterDto>
+    @{
+    ViewData["Title"] = "Değerler";
+    Layout= "_AdminLayout";
+    }
+
+    <table class="table table-hover table-bordered">
+        @{
+        int count = 0;
+        }
+        <tr>
+            <th>#</th>
+            <th>Başlık</th>
+            <th>Değer</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+        count++;
+        <tr>id="@item.Id"
+            <th>@count</th>
+            <td>@item.Title</td>
+            <td>@item.Count</td>
+            <td>
+                <a onclick="deleteCounter(this)" id="@item.Id" class="btn btn-outline-danger">Sil</a>
+                <a asp-controller="Counter" asp-action="UpdateCounter" asp-route-id="@item.Id"
+                    class="btn btn-outline-primary">Güncelle</a>
+            </td>
+        </tr>
+        }
+    </table>
+    <a asp-controller="Counter" asp-action="CreateCounter" class="btn btn-outline-success">Yeni Sayaç Bilgisi
+        Ekle</a>
+
+    <script>
+        function deleteCounter(button) {
+            var id = button.getAttribute("id");
+            Swal.fire({
+                title: "Silmek istediğinize Emin misiniz?",
+                text: "Bu işlemi geri alamaszsınız!",
+                icon: "warning",
+                showCancelButton: true,
+                confirmButtonColor: "#3085d6",
+                cancelButtonColor: "#d33",
+                confirmButtonText: "Yes, delete it!"
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = "/Counter/DeleteCounter/" + id;
+                }
+            });
+        };
+    </script>

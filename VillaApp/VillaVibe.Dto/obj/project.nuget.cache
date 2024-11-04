@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aN49LvDBl32CCw5hl+4RWX7A0RXd83B2JjSVfWcZ37rH2nnUtX6Ixh5vVNfI+eeuqUQGfltSpZUjUUm00/b33Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Dto\\VillaVibe.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emira\\.nuget\\packages\\mongodb.bson\\2.29.0\\mongodb.bson.2.29.0.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\emira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

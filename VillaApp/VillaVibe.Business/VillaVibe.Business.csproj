@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Bson" Version="2.29.0" />
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VillaVibe.Entity\VillaVibe.Entity.csproj" />
+    <ProjectReference Include="..\VillaVibe.DataAccess\VillaVibe.DataAccess.csproj" />
+  </ItemGroup>
+</Project>

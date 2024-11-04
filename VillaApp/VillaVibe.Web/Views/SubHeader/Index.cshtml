@@ -1,0 +1,61 @@
+@model List<ResultSubHeaderDto>
+    @{
+    Layout= "_AdminLayout";
+    ViewData["Title"] = "Alt Başlıklar";
+    }
+
+    <table class="table table-hover table-bordered">
+        @{
+        int count = 0;
+        }
+        <tr>
+            <th>#</th>
+            <th>Adres</th>
+            <th>Email</th>
+            <th>Facebook</th>
+            <th>Twitter</th>
+            <th>Linkendin</th>
+            <th>Instagram</th>
+
+        </tr>
+        @foreach (var item in Model)
+        {
+        count++;
+        <tr>
+            <th>@count</th>
+            <th>@item.Adress</th>
+            <th>@item.Email</th>
+            <th><a href="@item.Facebook">Facebook</a></th>
+            <th><a href="@item.Twitter">Twitter</a></th>
+            <th><a href="@item.Linkedin">Linkedin</a></th>
+            <th><a href="@item.Instagram">Instagram</a></th>
+            <td>
+                <button onclick="deleteSubHeader(this)" class="btn btn-outline-danger" id="@item.Id">Sil</button>
+
+                <a asp-controller="SubHeader" asp-action="UpdateSubHeader" asp-route-id="@item.Id"
+                    class="btn btn-outline-primary">Güncelle</a>
+            </td>
+        </tr>
+        }
+    </table>
+    <a asp-controller="SubHeader" asp-action="CreateSubHeader" class="btn btn-outline-success">Yeni Alt Başlık Ekle</a>
+
+
+    <script>
+        function deleteSubHeader(button) {
+            var id = button.getAttribute("id");
+            Swal.fire({
+                title: "Silmek istediğinize Emin misiniz?",
+                text: "Bu işlemi geri alamaszsınız!",
+                icon: "warning",
+                showCancelButton: true,
+                confirmButtonColor: "#3085d6",
+                cancelButtonColor: "#d33",
+                confirmButtonText: "Yes, delete it!"
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = "/SubHeader/DeleteSubHeader/" + id;
+                }
+            });
+        };
+    </script>

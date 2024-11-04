@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Web\\VillaVibe.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Business\\VillaVibe.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Business\\VillaVibe.Business.csproj",
+        "projectName": "VillaVibe.Business",
+        "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Business\\VillaVibe.Business.csproj",
+        "packagesPath": "C:\\Users\\emira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.DataAccess\\VillaVibe.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.DataAccess\\VillaVibe.DataAccess.csproj"
+              },
+              "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj": {
+                "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.29.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.DataAccess\\VillaVibe.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.DataAccess\\VillaVibe.DataAccess.csproj",
+        "projectName": "VillaVibe.DataAccess",
+        "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.DataAccess\\VillaVibe.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\emira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj": {
+                "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Dto\\VillaVibe.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Dto\\VillaVibe.Dto.csproj",
+        "projectName": "VillaVibe.Dto",
+        "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Dto\\VillaVibe.Dto.csproj",
+        "packagesPath": "C:\\Users\\emira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.29.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj",
+        "projectName": "VillaVibe.Entity",
+        "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj",
+        "packagesPath": "C:\\Users\\emira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.29.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Web\\VillaVibe.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Web\\VillaVibe.Web.csproj",
+        "projectName": "VillaVibe.Web",
+        "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Web\\VillaVibe.Web.csproj",
+        "packagesPath": "C:\\Users\\emira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Business\\VillaVibe.Business.csproj": {
+                "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Business\\VillaVibe.Business.csproj"
+              },
+              "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.DataAccess\\VillaVibe.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.DataAccess\\VillaVibe.DataAccess.csproj"
+              },
+              "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Dto\\VillaVibe.Dto.csproj": {
+                "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Dto\\VillaVibe.Dto.csproj"
+              },
+              "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj": {
+                "projectPath": "C:\\Users\\emira\\OneDrive\\Masaüstü\\VillaAppProject\\VillaApp\\VillaVibe.Entity\\VillaVibe.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
