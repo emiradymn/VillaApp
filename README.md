@@ -11,8 +11,9 @@ Identity: Güvenlik ve kimlik yönetimi için kullanıcı doğrulama mekanizmala
 Identity: Güvenlik ve kimlik yönetimi için kullanıcı doğrulama mekanizmaları.<br>
 Fluent Validation: Veri doğrulama işlemlerini kolaylaştırmak için esnek ve güçlü bir doğrulama sistemi.<br>
 SweetAlert: Kullanıcı dostu ve modern bildirimler sunar.<br>
-Proje, villa yönetimi alanında güçlü bir çözüm oluşturmak isteyen firmalar için ölçeklenebilir ve güvenli bir platform sağlar.<br>
 Admin Paneli: Villa yönetimi için kullanıcı dostu bir arayüz sunarak ekleme, silme ve güncelleme işlemlerinin rahatlıkla yapılmasını sağlar.<br>
+Proje, villa yönetimi alanında güçlü bir çözüm oluşturmak isteyen firmalar için ölçeklenebilir ve güvenli bir platform sağlar.<br>
+
 
 Resimler: <br>
 ![Ekran görüntüsü 2024-11-04 162613](https://github.com/user-attachments/assets/130f7160-ec4c-4462-8683-2d4446a2820e)<br>
